@@ -1,0 +1,14 @@
+{
+    "presets": [
+        ["@babel/preset-react", {
+            "runtime": "automatic"
+        }],
+    //     [ // 添加此处
+    //     "import", {
+    //         "libraryName": "antd",
+    //         "libraryDirectory": "es",
+    //         "style": true
+    //     }
+    // ]
+    ]
+}
